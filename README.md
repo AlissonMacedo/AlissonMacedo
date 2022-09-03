@@ -1,4 +1,4 @@
-![Olá sou Alisson Macedo](https://github.com/AlissonMacedo/AlissonMacedo/raw/master/alissonmacedo.gif)
+<!-- ![Olá sou Alisson Macedo](https://github.com/AlissonMacedo/AlissonMacedo/raw/master/alissonmacedo.gif) -->
 
 <div align="center">
   <a href="https://github.com/AlissonMacedo">
